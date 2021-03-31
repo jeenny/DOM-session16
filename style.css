@@ -1,0 +1,14 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+button {
+    border: 1px solid black;
+}
+.selected {
+    border: 1px solid red;
+}
